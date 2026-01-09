@@ -1,6 +1,6 @@
 # CartX
 This is a shopping cart website.
-Technologies used- 
+Technologies- 
          Frontend-HTML,CSS,JS
          Backend-Flask
          Database-MySQL
