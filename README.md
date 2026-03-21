@@ -43,14 +43,6 @@ A simple **Amazon-inspired shopping website UI** built using HTML, CSS, and Java
 
 ---
 
-## ⚙️ How to Run
-
-1. Download or clone the repository
-2. Make sure all image files are in the correct directory
-3. Open `index.html` in your browser
-
----
-
 ## 💡 Functionality Details
 
 ### 🔍 Search Bar
