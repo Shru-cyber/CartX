@@ -6,7 +6,7 @@ A simple **Amazon-inspired shopping website UI** built using HTML, CSS, and Java
 🌐 Live Demo
 
 🚀 Try it here:
-👉 (Add your deployed link here — GitHub Pages / Netlify / Vercel)
+👉https://cart-x-red.vercel.app/
 
 ---
 
