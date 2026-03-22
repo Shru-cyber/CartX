@@ -47,17 +47,17 @@ A simple **Amazon-inspired shopping website UI** built using HTML, CSS, and Java
  ┗ 📜 README.md      # Project documentation
 ```
 📸 Screenshots 
-🏠 Homepage
+🏠** Homepage**
 <img width="1920" height="1080" alt="2026-03-22 (1)" src="https://github.com/user-attachments/assets/5a9196c4-b4b9-4b30-9705-0a2fbb6af952" />
 
-🧭 Navigation Bar
+🧭 **Navigation Bar**
 <img width="1920" height="177" alt="2026-03-22 (1)" src="https://github.com/user-attachments/assets/c73b5f19-1863-49fb-bc14-d5b1d12c07b4" />
 
 
-🏬 Product Sections
+🏬** Product Sections**
 <img width="1920" height="920" alt="2026-03-22 (2)" src="https://github.com/user-attachments/assets/b17705e7-3b26-4bb5-bb9d-d5fee8eff4e7" />
 
-📍Footer
+📍**Footer**
 <img width="1920" height="671" alt="2026-03-22 (3)" src="https://github.com/user-attachments/assets/429f5a3c-ca30-456c-b39c-79859fcb3a64" />
 
 
